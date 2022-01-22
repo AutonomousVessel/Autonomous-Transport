@@ -11,6 +11,7 @@
                 <div class="main-content">
                     <!-- Begin About The Ship Section -->
                     <div class="section-light about-me" id="about-me">
+                    
                         <div class="container">
                             <div class="column is-12 about-me">
                                 <h1 class="title has-text-centered section-title">{{$blog->title}}</h1>
